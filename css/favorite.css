@@ -18,3 +18,24 @@ h1 {
   ul {
     line-height: 40px;
   }
+  .thing {
+    background: tan;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px;
+    padding: 12px;
+  }
+  .food{
+    background:cornflowerblue;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px;
+    padding: 12px;
+  }
+  .talk{
+    background:rgb(238, 239, 241);
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px;
+    padding: 12px;
+  }
